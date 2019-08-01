@@ -15,6 +15,10 @@
     background-color: #444 ;
 }
 
+.header a:hover {
+    text-decoration: none;
+}
+
 .header h3 a {
     color: white;
 }
