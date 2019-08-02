@@ -2,10 +2,10 @@
     margin-bottom: 1rem;
 }
 
-.item-list .list-groupe-item {
+.item-list .list-group-item {
     cursor: pointer;
 }
 
-.item-list .list-groupe-item:hover {
+.item-list .list-group-item:hover {
     background-color: #444;
 }
